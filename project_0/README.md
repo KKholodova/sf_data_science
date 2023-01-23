@@ -5,13 +5,13 @@
 
 [2. Какой кейс решаем](https://github.com/KKholodova/sf_data_science/tree/main/project_0#какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/KKholodova/sf_data_science/tree/maim/project_0#краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/KKholodova/sf_data_science/tree/main/project_0#краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/KKholodova/sf_data_science/tree/maim/project_0#этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/KKholodova/sf_data_science/tree/main/project_0#этапы-работы-над-проектом)
 
-[5. Результаты](https://github.com/KKholodova/sf_data_science/tree/maim/project_0#результаты)
+[5. Результаты](https://github.com/KKholodova/sf_data_science/tree/main/project_0#результаты)
 
-[6. Выводы](https://github.com/KKholodova/sf_data_science/tree/maim/project_0/#выводы)
+[6. Выводы](https://github.com/KKholodova/sf_data_science/tree/main/project_0#выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное количество попыток.
