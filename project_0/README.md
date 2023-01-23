@@ -1,7 +1,7 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проетка](https://github.com/KKholodova/sf_data_science/tree/main/project_0#описание-проекта)
+[1. Описание проекта](https://github.com/KKholodova/sf_data_science/tree/main/project_0#описание-проекта)
 
 [2. Какой кейс решаем](https://github.com/KKholodova/sf_data_science/tree/main/project_0#какой-кейс-решаем)
 
