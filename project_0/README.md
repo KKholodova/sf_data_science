@@ -16,7 +16,7 @@
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное количество попыток.
 
-:arrow_up:[к оглавлению](https://github.com/KKholodova/sf_data_science/tree/main/project_0#оглавление)
+:arrow_up:[ к оглавлению](https://github.com/KKholodova/sf_data_science/tree/main/project_0#оглавление)
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает число за минимальное число попыток
@@ -31,24 +31,24 @@
 **Что практикуем**
 Учимся писать хороший код на python
 
-:arrow_up:[к оглавлению](https://github.com/KKholodova/sf_data_science/tree/main/project_0#оглавление)
+:arrow_up:[ к оглавлению](https://github.com/KKholodova/sf_data_science/tree/main/project_0#оглавление)
 
 ### Краткая информация о данных 
 ....
 
-:arrow_up:[к оглавлению](https://github.com/KKholodova/sf_data_science/tree/main/project_0#оглавление)
+:arrow_up:[ к оглавлению](https://github.com/KKholodova/sf_data_science/tree/main/project_0#оглавление)
 
 ### Этапы работы над проектом
 ....
 
-:arrow_up:[к оглавлению](https://github.com/KKholodova/sf_data_science/tree/main/project_0#оглавление)
+:arrow_up:[ к оглавлению](https://github.com/KKholodova/sf_data_science/tree/main/project_0#оглавление)
 
 ### Результаты:
 ....
 
-:arrow_up:[к оглавлению](https://github.com/KKholodova/sf_data_science/tree/main/project_0#оглавление)
+:arrow_up:[ к оглавлению](https://github.com/KKholodova/sf_data_science/tree/main/project_0#оглавление)
 
 ### Выводы:
 ....
 
-:arrow_up:[к оглавлению](https://github.com/KKholodova/sf_data_science/tree/main/project_0#оглавление)
+:arrow_up:[ к оглавлению](https://github.com/KKholodova/sf_data_science/tree/main/project_0#оглавление)
