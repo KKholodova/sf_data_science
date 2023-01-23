@@ -3,13 +3,13 @@
 ## Оглавление
 [1. Описание проетка](https://github.com/KKholodova/sf_data_science/tree/main/project_0#описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/KKholodova/sf_data_science/tree/maim/project_0/#какой-кейс-решаем?)
+[2. Какой кейс решаем](https://github.com/KKholodova/sf_data_science/tree/main/project_0#какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/KKholodova/sf_data_science/tree/maim/project_0/#краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/KKholodova/sf_data_science/tree/maim/project_0#краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/KKholodova/sf_data_science/tree/maim/project_0/#этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/KKholodova/sf_data_science/tree/maim/project_0#этапы-работы-над-проектом)
 
-[5. Результаты](https://github.com/KKholodova/sf_data_science/tree/maim/project_0/#результаты)
+[5. Результаты](https://github.com/KKholodova/sf_data_science/tree/maim/project_0#результаты)
 
 [6. Выводы](https://github.com/KKholodova/sf_data_science/tree/maim/project_0/#выводы)
 
@@ -30,6 +30,8 @@
 
 **Что практикуем**
 Учимся писать хороший код на python
+
+:arrow_up:[к оглавлению](https://github.com/KKholodova/sf_data_science/tree/main/project_0#оглавление)
 
 ### Краткая информация о данных 
 ....
